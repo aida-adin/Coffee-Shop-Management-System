@@ -1,0 +1,17 @@
+# Generated text files
+menu.txt
+daily_income.txt
+daily_report_*.txt
+order_*.txt
+
+# Compiled files
+*.exe
+*.obj
+*.o
+
+# Visual Studio files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
